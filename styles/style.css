@@ -547,15 +547,15 @@ padding-top: 30px;
 
 .footer-wrapper-right-side-box-services h3{
   font-family: var(--ParragraphFont);
+  color: white;
   font-size: var(--ParragraphFont);
 
 }
 
 .footer-wrapper-right-side-box-services ul li {
-  color:white
+  color:white;
 }
 
-tx``
 
 .footer-wrapper-right-side-box {
   position: relative;
